@@ -42,7 +42,10 @@ node client-2.js
 After the client starts publishing and receiving messages, you can observe that both clients receive all the messages from both servers. However, if these servers are disconnected and run individually, this scenario becomes infeasible. Therefore, it implies that both servers are bridged using a Redis adapter.
 
 For more information please check following screen capture.
+
 ![socket-adapter-test-full](https://github.com/hasithaishere/socket-io-redis-adapter-example/assets/4580975/22b99557-b593-40c0-b899-86b2739c8e7a)
+
+----
 
 #### Contributors
 - [Hasitha Gamage](https://hasitha.xyz)
