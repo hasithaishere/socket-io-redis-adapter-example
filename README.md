@@ -2,7 +2,7 @@
 Example project for demonstrating horizontally scalability of Socket.io server with Redis Adapter.
 
 Please execute following commands to check the functionality. 
-🅷🅰🅿🅿🆈 🆃🅴🆂🆃🅸🅽🅶 :robot:
+𝐇𝐚𝐩𝐩𝐲 𝐓𝐞𝐬𝐭𝐢𝐧𝐠 :robot:
 
 ### Setup Redis Locally
 
